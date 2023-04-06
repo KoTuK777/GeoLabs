@@ -178,3 +178,7 @@ pyrightconfig.json
 # 
 
 datasets/
+*.jpg
+*.jpeg
+*.tif
+*.whl
